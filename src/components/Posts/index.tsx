@@ -1,4 +1,5 @@
 import React from "react";
+import Avatar from "../Avatar";
 
 import Comment from "../Comment";
 
@@ -9,7 +10,7 @@ const Posts: React.FC = (): JSX.Element => {
     <article className={styles.posts}>
       <header>
         <div className={styles.author}>
-          <img src="https://github.com/bleckcat.png" alt="Profile-picture" />
+          <Avatar src="https://github.com/bleckcat.png" border />
           <div className={styles.authorInfo}>
             <strong>Juan Vitor</strong>
             <span>Web Developer</span>
