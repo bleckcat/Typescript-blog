@@ -21,7 +21,7 @@ const Comment: React.FC = (): JSX.Element => {
               </time>
             </div>
             <button>
-              <Trash size={20} />
+              <Trash size={24} />
             </button>
           </header>
           <p>CASAMENTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO</p>
