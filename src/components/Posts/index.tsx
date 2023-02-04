@@ -26,10 +26,18 @@ const Posts: React.FC = (): JSX.Element => {
         <p>
           <a href="">Acessa meu github</a>
         </p>
-        <p>
-          <a href="">#mohSono</a>
+        <p className={styles.hashtags}>
+          <a href="">#mohSono</a> <a href="">#devenvolvimento</a>{" "}
+          <a href="">#tomei3LitroDeMonster</a>
         </p>
       </div>
+      <form className={styles.commentForm}>
+        <strong>Deixe seu comentário</strong>
+        <textarea placeholder="Deixe um comentário"></textarea>
+        <footer>
+          <button type="submit">Comentar</button>
+        </footer>
+      </form>
     </article>
   );
 };
