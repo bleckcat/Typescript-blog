@@ -25,7 +25,7 @@ const Comment: React.FC = (): JSX.Element => {
               <Trash size={24} />
             </button>
           </header>
-          <p>CASAMENTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO</p>
+          <p>Hora de dormir até dps da uma da tarde 💥💢 sabadou!</p>
         </div>
         <footer>
           <button>
