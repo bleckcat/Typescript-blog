@@ -22,16 +22,34 @@ const Posts: React.FC = (): JSX.Element => {
       </header>
       <div className={styles.content}>
         <p>
-          que dia lindo que é para se viver hoje, tudo dando certo, fiz
-          academia, voltei a estudar, tomei um pouco de Sol, comecei a fazer
-          skin care de novo e vou me casar, olha que lindo
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
+          massa eu odio interdum, sed finibus nibh efficitur. Duis nec nisl eget
+          dolor feugiat facilisis. Aenean elit risus, malesuada sit amet
+          ultrices vitae, semper rhoncus lorem. Etiam nec varius ligula, id
+          maximus nibh. Vivamus scelerisque tempus tempus. Nullam vitae
+          fermentum nibh, vel pellentesque dolor. Nulla sit amet nisi et mi
+          ultrices mattis. Nullam lobortis rutrum iaculis. In volutpat lectus
+          quis ultricies condimentum. Maecenas ut laoreet nulla, at gravida
+          felis. Suspendisse et justo sagittis, semper felis sit amet, ultrices
+          tellus. Nullam sodales mauris risus, vitae porta mi dignissim sed.
+          Fusce dictum augue feugiat sapien aliquam euismod. Aliquam erat
+          volutpat.
         </p>
         <p>
-          <a href="">Acessa meu github</a>
+          <a href="https://github.com/bleckcat" target="_blank">
+            Acessa meu github
+          </a>
         </p>
         <p className={styles.hashtags}>
-          <a href="">#mohSono</a> <a href="">#devenvolvimento</a>{" "}
-          <a href="">#tomei3LitroDeMonster</a>
+          <a href="https://github.com/bleckcat" target="_blank">
+            #LoremIpsum
+          </a>
+          <a href="https://github.com/bleckcat" target="_blank">
+            #Feugiat
+          </a>
+          <a href="https://github.com/bleckcat" target="_blank">
+            #Sapien
+          </a>
         </p>
       </div>
       <form className={styles.commentForm}>
