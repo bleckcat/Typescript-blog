@@ -25,7 +25,13 @@ const Comment: React.FC = (): JSX.Element => {
               <Trash size={24} />
             </button>
           </header>
-          <p>Hora de dormir até dps da uma da tarde 💥💢 sabadou!</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
+            massa eu odio interdum, sed finibus nibh efficitur. Duis nec nisl
+            eget dolor feugiat facilisis. Aenean elit risus, malesuada sit amet
+            ultrices vitae, semper rhoncus lorem. Etiam nec varius ligula, id
+            maximus nibh.
+          </p>
         </div>
         <footer>
           <button>
